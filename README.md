@@ -1,20 +1,15 @@
-# ExoOS-1.1
+# ExoOS 1.1 EcoSys
 
-Type: `osdev`
+ExoOS 1.1 EcoSys is a clean-reboot UNIX/DOS hybrid OS.
 
-## Description
+## Identity
 
-TODO: Describe this project.
+- Kernel/core: EcoSys
+- Boot menu: ExoBoot
+- Shell/prompt: ExoPrompt
+- Native root volume: E:/
+- Style: GUI-ish boot menu → splash screen → prompt
 
-## Structure
+## Rule
 
-- `src/`
-- `boot/`
-- `kernel/`
-- `docs/`
-- `scripts/`
-- `build/`
-- `iso/`
-- `rootfs/`
-- `toolchain/`
-- `notes/`
+This project does not use design inspiration from the old C# ExoOS prototype.
